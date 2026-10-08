@@ -33,3 +33,9 @@ Se realizó una primera configuración después del primer commit, justamente pa
 
 detectar la diferencia y podamos generar el segundo commit.
 
+
+
+\## Control de cambios
+
+Sección incorporada para evidenciar el control de cambios realizado durante la presente evaluación.
+
