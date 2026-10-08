@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.cibertec</groupId>
+  <artifactId>T2_Touzet_SanMartin</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>T2_Touzet_SanMartin</name>
+  <description>Proyecto Maven para la evaluación de Git y GitHub</description>
+</project>
