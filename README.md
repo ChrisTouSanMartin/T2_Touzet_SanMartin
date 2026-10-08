@@ -39,3 +39,9 @@ detectar la diferencia y podamos generar el segundo commit.
 
 Sección incorporada para evidenciar el control de cambios realizado durante la presente evaluación.
 
+
+
+\## Gestión de ramas
+
+Se creó la clase ControlVersion\_Touzet.java para demostrar el desarrollo de una funcionalidad independiente mediante una rama de Git.
+
